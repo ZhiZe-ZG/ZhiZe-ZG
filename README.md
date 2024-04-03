@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhize-zg)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhize-zg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 ZhiZe-ZG/ZhiZe-ZG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
