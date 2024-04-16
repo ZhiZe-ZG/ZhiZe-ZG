@@ -5,10 +5,10 @@
 - 📫 How to reach me ...
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zhize-zg&show=reviews,discussions_started,discussions_answered,prs_merged&hide=prs&card_width=360" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=zhize-zg&show=reviews,discussions_started,discussions_answered,prs_merged&hide=prs&card_width=360" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhize-zg&layout=compact&langs_count=10&card_width=360" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhize-zg&layout=compact&langs_count=10&card_width=360" />
 </a>
 
 <!---
