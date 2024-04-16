@@ -8,7 +8,7 @@
   <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=zhize-zg&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&card_width=480" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhize-zg&layout=compact&card_width=480&langs_count=10" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhize-zg&layout=compact&card_width=360&langs_count=10" />
 </a>
 
 <!---
