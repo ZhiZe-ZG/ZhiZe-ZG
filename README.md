@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 [![ZhiZe's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhize-zg&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhize-zg&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhize-zg&layout=compact,langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhize-zg&layout=compact)]()
 
