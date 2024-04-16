@@ -4,11 +4,10 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-![ZhiZe's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhize-zg&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+[![ZhiZe's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhize-zg&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhize-zg&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhize-zg&langs_count=8)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhize-zg&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhize-zg&layout=compact)]()
 
 <!---
 ZhiZe-ZG/ZhiZe-ZG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
